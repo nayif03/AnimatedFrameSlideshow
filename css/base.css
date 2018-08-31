@@ -393,7 +393,7 @@ a.demo--current {
 	text-align: center;
 }
 
-.slide__link {
+/* .slide__link {
 	position: relative;
 	font-size: 1em;
 	font-weight: bold;
@@ -402,7 +402,7 @@ a.demo--current {
 	color: var(--color-slink);
 	background: var(--color-slink-bg);
 	transition: color 0.3s, background 0.3s;
-}
+} */
 
 .slide__link:hover {
 	color: var(--color-slink-hover);
